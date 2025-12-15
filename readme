@@ -1,0 +1,36 @@
+🌐 Personal Portfolio Website
+
+
+A responsive personal portfolio website built using HTML, CSS, and JavaScript.
+
+
+Features
+- Clean and modern UI
+- Responsive design
+- Projects showcase
+- Certifications with live links & PDF support
+
+
+ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+📂 Folder Structure
+portfolio-website/ │── index.html │── style.css │── script.js │── README.md │── NWAQOBTBSG.pdf
+
+🔗 Live Certificates
+- Dynamic Web Application – CCBP
+- Programming Foundations with Python (PDF included)
+
+📌 How to Run
+1. Clone the repository
+2. Open `index.html` in a browser
+
+
+👤 Author
+-Siddharth Avusula
+
+
+---
+⭐ If you like this project, give it a star on GitHub!
